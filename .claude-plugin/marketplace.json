@@ -1,0 +1,29 @@
+{
+  "name": "formularios-fusiones-y-escisiones",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Fusiones, escisiones y transformaciones de sociedades · España (55 formularios). Para las modificaciones estructurales del Real Decreto-ley 5/2023: proyectos comunes de fusión y escisión, acuerdos de junta, anuncios, informes a socios y trabajadores, escrituras de fusión, escisión, transformación y cesión global, y la defensa de acreedores y socios. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-fusiones-y-escisiones",
+      "source": "./",
+      "description": "Fusiones, escisiones y transformaciones de sociedades · España (55 formularios). Para las modificaciones estructurales del Real Decreto-ley 5/2023: proyectos comunes de fusión y escisión, acuerdos de junta, anuncios, informes a socios y trabajadores, escrituras de fusión, escisión, transformación y cesión global, y la defensa de acreedores y socios. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "estructurales"
+      ]
+    }
+  ]
+}
